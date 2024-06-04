@@ -1,4 +1,4 @@
-[Country-data.csv](https://github.com/user-attachments/files/15570954/Country-data.csv)# coding Tasks for CoGrammar Data Science Bootcamp
+# coding Tasks for CoGrammar Data Science Bootcamp
 
 Here is an example of one of the tasks I completed as part of the Data Science Bootcamp
 
