@@ -1,4 +1,4 @@
-# coding Tasks for CoGrammar Data Science Bootcamp
+# Coding Tasks for CoGrammar Data Science Bootcamp
 
 Here is an example of one of the tasks I completed as part of the Data Science Bootcamp
 
