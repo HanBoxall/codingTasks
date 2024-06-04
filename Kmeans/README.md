@@ -25,6 +25,6 @@ After preprocessing, I explored the data using scatterplots to visualise what va
 
 ### Output
 
-![Graph of clusters](Kmeans/images/childmort_vs_GDPP.png)
+![childmort_vs_GDPP](https://github.com/HanBoxall/codingTasks/assets/164758748/1fb8572c-236a-438c-bacf-6b4fb5a7bbc9)
 
 From this graph I defined Cluster 0 as 'Developing', Cluster 1 as 'Developed' and Cluster 2 as 'Least Developed'. The 'Least Developed' countries have the highest child mortality and lowest GDP per Capita. The 'Developed' countries have the lowest child mortality and highest GDP per Capita.
