@@ -8,7 +8,7 @@ The objective of the task was to group countries using socio-economic and health
 
 ### Prerequisites
 
-The dataset used was the csv file in this repository ![Country-data](Kmeans/Country-data.csv)
+The dataset used was the csv file in this repository ![Country-data](Country-data.csv)
 
 Required installs for this task:
 - numpy
